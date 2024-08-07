@@ -1,0 +1,22 @@
+div{
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    background-color: #a89d98;
+}
+.bloc1{
+    border-radius: 0 10px 10px 0;
+    background: #ec5b07; ;
+}
+.bloc2{
+    border-radius: 0 50% 0 50%;
+    background: #16f316;
+}
+.bloc3{
+    border-radius: 10px 50% 30px 50%;
+    background: #e3fa18;
+}
+.bloc4{
+    border-radius: 50%;
+    background: #ec5b07;
+}

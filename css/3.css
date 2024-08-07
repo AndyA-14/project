@@ -1,0 +1,34 @@
+*{
+    margin: 0;padding: 0;
+}
+div{
+    width: 300px;
+    height: 300px;
+    background: #84c40d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.blok1{
+    background: #84c40d;
+
+}
+.blok2{
+    background: #0d22c4;
+    
+}
+.blok3{
+    background: #0d8dc4;
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+div{
+    flex: 1 1 auto;
+}

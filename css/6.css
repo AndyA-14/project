@@ -1,0 +1,32 @@
+ul{
+    list-style-type: square;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+ul li{
+    display: inline;
+    cursor: pointer;
+    color: rgb(58, 16, 86);
+    transition: all 1s linear;
+
+
+    
+}
+ul li span{ 
+    border-bottom: 1px solid rgb(58, 16, 86);
+}
+.section{
+    height: 500px;
+    border: 1px solid #000;
+    position: relative;
+
+}
+div{
+    position: relative;
+}
+.section1 .blok1{
+    
+}
+
+

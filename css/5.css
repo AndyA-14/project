@@ -1,0 +1,28 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+main{
+    color: #f5f7cb;
+    background: #f97de4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin: 20% auto;
+    width: 650px;
+    height: 350px;
+    box-shadow: 5px 5px 30px rgb(25, 55, 10);
+    border-radius: 10px;
+
+    
+}
+.blok2{
+    width: 3px;
+    height: 100%;
+    background: #f5f7cb;
+}
+a{
+    color: #f5f7cb;
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-weight: 800;
+    color: #000;
+}
+ul li{
+    width: 250px;
+   
+    
+}
+ul a{
+    text-decoration: none;
+    padding-bottom: 5px;
+    transition: all .2s linear;
+    font-weight: 800;
+    color: #000;
+
+}
+ul a:hover{
+    border-bottom: 2px solid #000;
+}
